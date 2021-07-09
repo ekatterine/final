@@ -1,0 +1,172 @@
+
+body { padding: 50px
+}
+ 
+
+ .logo{
+    vertical-align: middle;
+    max-height: 50px;
+    max-width: auto;
+    margin-top: 1px;
+   
+	
+
+}
+.nav li {padding-bottom: 20px;
+	font-size: 22px ;
+	color: #3D58A6; 
+
+}
+
+.nav{margin-bottom: 50px}
+
+.nav .active{
+
+	color: red;
+}
+footer img{
+
+	height: 30px;
+	width: auto;
+	margin-top: 58px; 
+}
+
+.fb{
+
+	
+	border-right: 1px solid #363E97;
+	padding-right: 35px;
+}
+
+.insta{
+	margin-left: 35px;
+}
+.nav{
+
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 30px;
+	font-family: 'BPG Nino Mtavruli Book', serif;
+}
+
+.nav li{
+
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 20px;
+
+
+}
+
+.article div {
+
+	background-color: #CBCBCB;
+	height: 200px;
+	width: 570px;
+	display: inline-block;
+	padding:  20px;
+}
+
+.div1{
+	margin-right: 45px;
+}
+
+.heather{ 
+	margin-top: 120px;
+	margin-bottom: 40px;
+	font-size: 25px;
+
+ }
+
+ .img{
+ 	height: 100px;
+ 	width: auto;
+ 	vertical-align: middle;
+ 	display: inline-block;
+
+
+ }
+
+ .article div p{
+ 	display: inline-block;
+ 	font-size: 20px;
+ 	width: 355px;
+ 	vertical-align: middle;
+ 	margin-left: 60px;
+ 	font-family: 'Roboto',monospace ;
+ }
+
+ .article div h4{
+
+ 	margin: 20px ;
+ }
+
+ .banner{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+ 
+ .date .date2 {
+    background-color: #363E97;
+    padding:20px;
+    display: inline-block;
+    color: white;
+    font-size:30px;
+}
+
+ .date3 {
+
+ 	font-size: 21px;
+ 	color:  #363E97;
+ }
+
+ .date0{
+
+ 	margin: 15px 0px;
+ }
+
+ .date4{ font-size: 16px;
+ 	margin: 15px 0px;
+ 	display: inline-block;
+ 	vertical-align: middle;
+ 	width: 800px;
+ }
+
+.img1{
+	width: 400px;
+	height: auto;
+    display: inline-block;
+vertical-align: middle;
+margin-bottom: 50px;
+}
+
+.map{
+	width: 850px;
+	height: auto;
+    display: inline-block;
+    margin-left: 100px;
+
+
+}
+
+.contact{
+display: inline-block;
+width: 200px;
+vertical-align: middle;
+margin-bottom: 500px;
+margin-left: 100px;
+margin-top: 0px;
+}
+
+.gray{
+	background-color: #CBCBCB;
+	padding-top: 50px;
+	margin-bottom: 20px;
+	margin-top: 0px;
+
+	
+
+
+}
